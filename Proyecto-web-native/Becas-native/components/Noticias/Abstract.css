@@ -1,0 +1,7 @@
+.newsGrid{
+    display: grid;
+    grid-template-columns: repeat(3 , 350px);
+    gap: 50px;
+    padding: 50px;
+    justify-content: center;
+}

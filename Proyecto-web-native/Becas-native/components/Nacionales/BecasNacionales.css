@@ -1,0 +1,16 @@
+html{
+    background-color: #1E2029;
+}
+
+.Nacionales{
+    display: grid;
+    grid-template-columns: repeat(3 , 350px);
+    gap: 50px;
+    padding: 50px;
+    justify-content: center;
+}
+
+.Main-Content-Nacionales{
+    background-color: #1E2029;
+    color: white;
+}
